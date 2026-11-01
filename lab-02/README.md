@@ -1,8 +1,7 @@
 # Lab 2: SQLite database and CRUD routes
 
 Sai Sudheer · 252U1R9127 · 112
-
-**Live link:** (paste after deploy)
+**Live link:** https://bdf-lab2-r55m.onrender.com/books/
 
 ## How to run
 ```bash
